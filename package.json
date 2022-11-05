@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/olegnikitin/solidity-hardhat-example#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "hardhat": "^2.12.2"
   }
 }
