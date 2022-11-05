@@ -1,0 +1,26 @@
+{
+  "name": "solidity-hardhat-example",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegnikitin/solidity-hardhat-example.git"
+  },
+  "keywords": [
+    "solidity"
+  ],
+  "author": "olegnikitindev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olegnikitin/solidity-hardhat-example/issues"
+  },
+  "homepage": "https://github.com/olegnikitin/solidity-hardhat-example#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.2"
+  }
+}
